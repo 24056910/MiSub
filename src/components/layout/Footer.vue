@@ -9,12 +9,12 @@ const currentYear = computed(() => new Date().getFullYear());
 <p class="text-xs text-gray-500 dark:text-gray-400">
 Copyright © {{ currentYear }}
 <a
-href="https://github.com/imzyb/MiSub"
+href="https://qm.qq.com/q/eFGTsckPjq"
 target="_blank"
 rel="noopener noreferrer"
 class="font-semibold text-indigo-600 dark:text-indigo-400 hover:underline"
 >
-MiSUB
+苹果签VPN加速
 </a>.
 All Rights Reserved.
 </p>
